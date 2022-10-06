@@ -34,7 +34,3 @@ https://p5js.org/reference/#/p5/hue
 https://www.w3schools.com/colors/colors_picker.asp
 https://www.w3schools.com/colors/colors_picker.asp
 https://p5js.org/reference/#/p5/fill
-## List any help you got from classmates or websites, so that you can remember it for later
-
-Safiya Menk
-Omer Ozkaya
